@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Csóka Balázs
-- 👀 I’m interested in coding, karate, sports, computer games
+- 👀 I’m interested in coding(Java, C, Python, and sometimes HTML/CSS), karate, sports, computer games
 - 🌱 I’m currently learning Computer Science Engineering at University of Szeged 
 
 <!---
